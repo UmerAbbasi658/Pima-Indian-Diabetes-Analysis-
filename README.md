@@ -1,1 +1,0 @@
-# Pima-Indian-Diabetes-Analysis-
